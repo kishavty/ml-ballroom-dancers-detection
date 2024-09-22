@@ -1,0 +1,42 @@
+black:
+
+001-010: https://www.youtube.com/watch?v=Q4YlvDNZhTA
+
+011-020: https://www.youtube.com/watch?v=L9MhhZ_HXLo&t=38258s
+
+021-030: https://www.youtube.com/watch?v=PuzFYk4ngDY&t=8781s
+
+031-035: https://www.youtube.com/watch?v=bEX3g7FyuUM
+
+036-040: https://www.youtube.com/watch?v=c3ZpVzkQY3g
+
+041-045: https://www.youtube.com/watch?v=lu90K79rXgM&t=7542s
+
+
+white:
+
+046-055: https://www.youtube.com/watch?v=SC1aLyU8N6k&t=34748s
+
+056-060: https://www.youtube.com/watch?v=h-vGvy3tnRk
+
+061-070: https://www.youtube.com/watch?v=0GHkCRM8DBc
+
+071-075: https://www.youtube.com/watch?v=bHaR7KZyBKw
+
+076-080: https://www.youtube.com/watch?v=ku0dN3_StFs
+
+081-090: https://www.youtube.com/watch?v=Ql_i1xAftOg
+
+
+background:
+
+091: https://www.youtube.com/watch?v=Q4YlvDNZhTA
+092: https://www.youtube.com/watch?v=ku0dN3_StFs
+093: https://www.youtube.com/watch?v=bEX3g7FyuUM
+094: https://www.youtube.com/watch?v=lu90K79rXgM&t=7542s
+095: https://www.youtube.com/watch?v=Ql_i1xAftOg
+096: https://www.youtube.com/watch?v=Ql_i1xAftOg
+097: https://www.youtube.com/watch?v=Ql_i1xAftOg
+098: https://www.youtube.com/watch?v=N6KDZs4X5XA
+099: https://www.youtube.com/watch?v=jKNyFxuEN8Q
+100: https://www.youtube.com/watch?v=jKNyFxuEN8Q

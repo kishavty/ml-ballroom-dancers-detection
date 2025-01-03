@@ -1,0 +1,12 @@
+batch_size: 16
+learning_rate: 0.005
+num_epochs: 1000
+num_workers: 8
+optimizer: 'sgd'  #'adam', 'sgd'
+weight_decay: 0.0005
+momentum: 0.9
+dataset_path: 'dataset'
+output_dir: 'outputs'
+num_classes: 1
+class_names: ['couple']
+imgsz: 512

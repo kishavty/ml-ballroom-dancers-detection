@@ -1,0 +1,27 @@
+<annotation>
+    <folder>JPEGImages</folder>
+	<filename>003_png.rf.ce6e39b8b02c35a215ca7713bbb9a2d4.jpg</filename>
+	<path>003_png.rf.ce6e39b8b02c35a215ca7713bbb9a2d4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+        <name>couple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>176</xmin>
+			<xmax>332</xmax>
+			<ymin>146</ymin>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
